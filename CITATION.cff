@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use Bench Press, please cite the paper below."
+title: "Bench Press: Journalism Codes of Ethics as a Benchmark for Language Models"
+authors:
+  - name: "Anonymous (under review)"
+version: 1.0.0
+license: MIT
+type: software
+preferred-citation:
+  type: conference-paper
+  title: "Bench Press: Journalism Codes of Ethics as a Benchmark for Language Models"
+  authors:
+    - name: "Anonymous (under review)"
+  year: 2027

@@ -1,0 +1,5 @@
+openai>=1.40
+numpy>=1.22
+pandas>=1.5
+# only for Anthropic models:
+# anthropic>=0.40
