@@ -1,9 +1,0 @@
-Set,Language,Model,"Accuracy, own language","Accuracy, English",Effect (pp),Same choice across languages,Same choice across EN replicates
-Italian code,Italian,gpt-oss-120b,89.7,91.0,"-1.2 [-4.7, +1.8]",90.8,93.5
-Italian code,Italian,gpt-oss-20b,86.4,84.7,"+1.6 [-1.6, +4.9]",85.5,86.6
-Italian code,Italian,Mistral-Small 3.2 (24B),77.0,80.6,"-3.6 [-7.8, +0.2]",87.0,97.9
-Italian code,Italian,Apertus-70B,78.9,76.2,"+2.7 [-1.1, +6.5]",86.2,93.3
-French codes,French,gpt-oss-120b,88.1,88.0,"+0.1 [-1.7, +2.2]",89.2,92.6
-French codes,French,gpt-oss-20b,84.1,85.8,"-1.7 [-3.4, -0.1]",85.4,87.8
-French codes,French,Mistral-Small 3.2 (24B),79.2,78.1,"+1.1 [-1.2, +3.6]",87.9,97.9
-French codes,French,Apertus-70B,75.8,76.7,"-0.8 [-3.7, +1.9]",86.0,95.0

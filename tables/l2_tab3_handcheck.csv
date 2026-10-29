@@ -1,6 +1,0 @@
-Condition,Checker fit,Direction correct,Items,Share correct (%),"Shift on valid items, gpt-oss-120b, gpt-oss-20b, Mistral-Small 3.2, Apertus-70B (pp)","Shift on mislabelled items, gpt-oss-120b, gpt-oss-20b, Mistral-Small 3.2, Apertus-70B (pp)"
-legitimate exception,fits,10,15,67,,
-legitimate exception,partial,2,10,20,,
-pseudo-exception,fits,8,8,100,,
-pseudo-exception,partial,7,7,100,,
-legitimate exception,all sampled,12,25,48,+31 / +27 / +15 / +8,+8 / +12 / +4 / +4

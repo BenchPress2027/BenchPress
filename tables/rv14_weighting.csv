@@ -1,9 +1,0 @@
-﻿Configuration,Model,Answer-weighted (paper) %,Document-equal %,Region-equal %,Type-equal %,European codes %,Non-European codes %,National press codes only %
-C0,gpt-oss-120b,73.0,72.7,74.2,73.2,72.1,74.1,73.0
-C0,gpt-oss-20b,64.8,64.8,66.7,65.8,64.0,66.0,64.5
-C0,Mistral-Small 3.2,61.8,62.6,64.2,63.3,60.6,63.3,60.5
-C0,Apertus-70B,59.8,59.7,59.8,60.6,58.5,61.5,58.7
-C4,gpt-oss-120b,94.7,94.7,95.3,94.6,94.2,95.2,94.4
-C4,gpt-oss-20b,92.8,93.0,94.4,93.8,91.6,94.4,91.9
-C4,Mistral-Small 3.2,94.0,94.0,94.6,94.8,93.2,94.9,93.3
-C4,Apertus-70B,88.7,88.4,88.4,88.0,87.5,90.3,87.9
