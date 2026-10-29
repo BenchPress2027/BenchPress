@@ -1,0 +1,13 @@
+﻿Tensions,Model,code's side names more % [95% CI],same number of names % [95% CI],code's side names fewer % [95% CI],pairs: code's side names more %,pairs: same number of names %,pairs: code's side names fewer %
+all tensions,gpt-oss-120b,"83.6 [80.7, 86.3]","79.6 [78.2, 81.0]","70.8 [68.3, 73.2]",10.8,65.7,23.4
+all tensions,gpt-oss-20b,"78.0 [75.0, 81.0]","75.9 [74.6, 77.3]","57.7 [55.0, 60.3]",10.8,65.7,23.4
+all tensions,Mistral-Small 3.2,"78.4 [75.2, 81.6]","70.4 [68.7, 72.1]","47.6 [45.0, 50.1]",10.8,65.7,23.4
+all tensions,Apertus-70B,"70.5 [67.3, 73.7]","65.3 [63.9, 66.7]","49.6 [47.5, 51.9]",10.8,65.7,23.4
+naming tensions,gpt-oss-120b,"79.2 [68.3, 88.3]","69.6 [64.5, 74.9]","64.5 [61.0, 68.0]",8.5,32.7,58.8
+naming tensions,gpt-oss-20b,"81.7 [72.0, 90.0]","66.1 [61.2, 70.6]","47.6 [44.5, 50.9]",8.5,32.7,58.8
+naming tensions,Mistral-Small 3.2,"80.2 [73.3, 86.6]","59.6 [53.7, 65.4]","38.3 [35.2, 41.4]",8.5,32.7,58.8
+naming tensions,Apertus-70B,"75.0 [68.2, 81.2]","56.8 [52.3, 61.2]","40.6 [38.4, 42.8]",8.5,32.7,58.8
+all other tensions,gpt-oss-120b,"84.4 [81.7, 86.9]","80.6 [79.2, 82.1]","76.6 [73.4, 79.6]",11.4,73.6,15.0
+all other tensions,gpt-oss-20b,"77.4 [74.4, 80.3]","77.0 [75.5, 78.4]","67.2 [64.0, 70.4]",11.4,73.6,15.0
+all other tensions,Mistral-Small 3.2,"78.1 [74.5, 81.5]","71.6 [69.8, 73.3]","56.2 [52.9, 59.7]",11.4,73.6,15.0
+all other tensions,Apertus-70B,"69.8 [65.9, 73.2]","66.2 [64.7, 67.6]","58.0 [54.9, 61.5]",11.4,73.6,15.0

@@ -1,0 +1,19 @@
+﻿Respondents,Condition,Pole A without %,Pole A with %,Shift (pp),Pairs,Answers
+journalists,legitimate exception,"47 [21, 73]","60 [33, 92]","+13 [-17, +43]",4,156
+journalists,pseudo-exception,"50 [24, 75]","51 [11, 92]","+1 [-50, +56]",4,156
+journalists,rationalization,"19 [2, 44]","38 [7, 70]","+19 [-7, +46]",5,195
+readers,legitimate exception,"48 [27, 70]","75 [48, 100]","+28 [-13, +63]",4,80
+readers,pseudo-exception,"35 [0, 67]","60 [23, 97]","+25 [-12, +60]",4,80
+readers,rationalization,"28 [8, 50]","46 [15, 75]","+18 [-14, +50]",5,100
+gpt-oss-120b,legitimate exception,22,72,+50,4,item means
+gpt-oss-120b,pseudo-exception,38,56,+19,4,item means
+gpt-oss-120b,rationalization,0,100,+100,5,item means
+gpt-oss-20b,legitimate exception,34,78,+44,4,item means
+gpt-oss-20b,pseudo-exception,44,66,+22,4,item means
+gpt-oss-20b,rationalization,0,92,+92,5,item means
+Mistral-Small 3.2,legitimate exception,50,88,+38,4,item means
+Mistral-Small 3.2,pseudo-exception,31,38,+6,4,item means
+Mistral-Small 3.2,rationalization,10,90,+80,5,item means
+Apertus-70B,legitimate exception,38,69,+31,4,item means
+Apertus-70B,pseudo-exception,50,72,+22,4,item means
+Apertus-70B,rationalization,5,80,+75,5,item means

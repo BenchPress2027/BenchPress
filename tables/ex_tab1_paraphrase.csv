@@ -1,0 +1,5 @@
+﻿Model,Same answer across replicates %,Same answer across option orders %,Same answer across paraphrases % [95% CI],All 4 paraphrases same %,"Paraphrases, C0 %","Paraphrases, C4 %"
+gpt-oss-120b,91.7,88.5,"82.6 [81.7, 83.5]",68.0,66.1,91.1
+gpt-oss-20b,87.2,84.9,"78.7 [77.9, 79.6]",61.1,60.5,88.2
+Mistral-Small 3.2,98.1,82.2,"80.2 [79.4, 81.1]",64.1,66.4,91.0
+Apertus-70B,94.4,67.9,"76.2 [75.4, 77.0]",56.7,67.0,85.3

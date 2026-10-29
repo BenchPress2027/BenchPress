@@ -1,0 +1,6 @@
+﻿Cells by audit outcome,Cells,"Original pairs, C0-C1 %","Original pairs, C2-C4 %","Regenerated pairs, C0-C1 %","Regenerated pairs, C2-C4 %"
+untouched,805,69.0,91.2,,
+regenerated (scan-triggered),98,59.7,79.4,72.4,91.7
+regenerated (performance-triggered),17,46.9,41.8,69.6,86.1
+excluded (scan-triggered),15,51.4,74.4,,
+excluded (performance-triggered),7,43.4,35.0,17.2,26.6

@@ -1,0 +1,21 @@
+﻿Version,Cells,Model,C0 %,C1 %,C4 %,C0->C4 gain pp,With code: harm %,integrity %,truth %,Integrity - harm pp,Integrity - truth pp
+original (no audit),942,gpt-oss-120b,71.4,81.4,93.0,21.6,95.0,86.8,93.0,-8.2,-6.1
+original (no audit),942,gpt-oss-20b,62.4,76.1,90.5,28.1,93.0,80.8,91.1,-12.1,-10.3
+original (no audit),942,Mistral-Small 3.2,61.1,65.8,91.0,29.9,94.9,78.3,89.8,-16.6,-11.5
+original (no audit),942,Apertus-70B,57.9,61.1,84.9,27.0,89.4,68.7,83.3,-20.6,-14.5
+after the first audit (before the disclosure scan),936,gpt-oss-120b,71.7,81.9,93.9,22.2,95.0,89.4,93.4,-5.6,-4.0
+after the first audit (before the disclosure scan),936,gpt-oss-20b,62.9,76.7,91.4,28.5,93.0,83.6,91.5,-9.4,-7.9
+after the first audit (before the disclosure scan),936,Mistral-Small 3.2,61.1,66.6,92.1,31.1,94.9,82.1,90.0,-12.8,-7.8
+after the first audit (before the disclosure scan),936,Apertus-70B,58.2,61.8,86.0,27.9,89.4,72.8,83.4,-16.6,-10.7
+published,919,gpt-oss-120b,73.0,82.9,94.7,21.7,95.0,90.8,94.4,-4.3,-3.6
+published,919,gpt-oss-20b,64.8,79.0,92.8,28.0,93.1,88.6,92.5,-4.5,-3.9
+published,919,Mistral-Small 3.2,61.8,70.1,94.0,32.2,95.2,89.6,91.0,-5.6,-1.4
+published,919,Apertus-70B,59.8,64.6,88.7,28.9,89.7,83.6,84.6,-6.1,-1.0
+model-independent corrections only,927,gpt-oss-120b,72.5,82.0,93.2,20.8,94.9,88.1,93.2,-6.9,-5.1
+model-independent corrections only,927,gpt-oss-20b,64.1,78.0,91.5,27.4,93.0,85.6,91.5,-7.4,-5.9
+model-independent corrections only,927,Mistral-Small 3.2,61.6,68.9,92.6,31.0,95.1,85.4,90.4,-9.7,-5.0
+model-independent corrections only,927,Apertus-70B,59.3,63.7,87.2,28.0,89.6,79.0,83.9,-10.5,-4.9
+untouched cells only,804,gpt-oss-120b,73.0,82.9,94.7,21.8,95.1,88.8,94.7,-6.3,-5.8
+untouched cells only,804,gpt-oss-20b,64.4,79.0,92.9,28.5,93.2,85.8,92.7,-7.3,-6.9
+untouched cells only,804,Mistral-Small 3.2,60.3,69.5,94.0,33.7,95.2,86.2,91.4,-9.0,-5.2
+untouched cells only,804,Apertus-70B,59.2,64.8,88.6,29.4,89.7,80.9,84.8,-8.7,-3.8
