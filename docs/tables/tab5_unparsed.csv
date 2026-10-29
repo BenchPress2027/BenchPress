@@ -1,0 +1,9 @@
+Model,Arm,empty,leaked tool-use text,neither / none,other,refusal,total,"per 1,000 calls"
+gpt-oss-120b,No rationale,0,12,0,2,34,48,0.66
+gpt-oss-120b,With rationale,0,4,13,4,7,28,0.38
+gpt-oss-20b,No rationale,3,1,0,2,185,191,2.61
+gpt-oss-20b,With rationale,4,0,15,27,76,122,1.67
+Mistral-Small 3.2 (24B),No rationale,0,0,0,0,0,0,0.0
+Mistral-Small 3.2 (24B),With rationale,0,0,0,0,0,0,0.0
+Apertus-70B,No rationale,0,0,0,0,0,0,0.0
+Apertus-70B,With rationale,0,0,0,0,0,0,0.0

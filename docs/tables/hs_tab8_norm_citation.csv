@@ -1,0 +1,8 @@
+﻿Respondents,n,"Words, median",Norm cited %,"First sentence only: words, median",First sentence only: norm cited %
+Journalists,117,13,"9 [3, 16]",,
+Readers,60,14,"10 [0, 27]",,
+gpt-oss-120b,24,62,"42 [21, 67]",25.0,"4 [0, 12]"
+gpt-oss-20b,23,65,"52 [33, 74]",21.0,"13 [0, 39]"
+Mistral-Small 3.2,24,85,"46 [21, 75]",21.0,"17 [0, 50]"
+Apertus-70B,24,108,"54 [38, 75]",27.0,"17 [0, 42]"
+Models (all),95,75,"48 [35, 71]",24.0,"13 [0, 36]"

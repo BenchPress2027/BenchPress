@@ -1,0 +1,13 @@
+﻿analysis,family,comparison,model,estimate_pp,ci_lo_pp,ci_hi_pp,p,unit,n_units,config,acc_a,acc_b,p_holm
+1 pairwise models,A1 C0,C0: gpt-oss-120b - gpt-oss-20b,gpt-oss-120b vs gpt-oss-20b,8.1313,7.074,9.207,0.001,code x tension cell,919,C0,72.9658,64.8345,0.006
+1 pairwise models,A1 C0,C0: gpt-oss-120b - Mistral-Small 3.2,gpt-oss-120b vs Mistral-Small 3.2,11.2002,9.4403,12.9692,0.001,code x tension cell,919,C0,72.9658,61.7655,0.006
+1 pairwise models,A1 C0,C0: gpt-oss-120b - Apertus-70B,gpt-oss-120b vs Apertus-70B,13.2022,11.9017,14.4544,0.001,code x tension cell,919,C0,72.9658,59.7636,0.006
+1 pairwise models,A1 C0,C0: gpt-oss-20b - Mistral-Small 3.2,gpt-oss-20b vs Mistral-Small 3.2,3.069,1.4015,4.6538,0.001,code x tension cell,919,C0,64.8345,61.7655,0.006
+1 pairwise models,A1 C0,C0: gpt-oss-20b - Apertus-70B,gpt-oss-20b vs Apertus-70B,5.0709,3.7732,6.3138,0.001,code x tension cell,919,C0,64.8345,59.7636,0.006
+1 pairwise models,A1 C0,C0: Mistral-Small 3.2 - Apertus-70B,Mistral-Small 3.2 vs Apertus-70B,2.0019,0.6009,3.4447,0.006,code x tension cell,919,C0,61.7655,59.7636,0.006
+1 pairwise models,A1 C4,C4: gpt-oss-120b - gpt-oss-20b,gpt-oss-120b vs gpt-oss-20b,1.8561,1.3178,2.372,0.001,code x tension cell,919,C4,94.6635,92.8073,0.006
+1 pairwise models,A1 C4,C4: gpt-oss-120b - Mistral-Small 3.2,gpt-oss-120b vs Mistral-Small 3.2,0.7034,-0.1094,1.5498,0.098,code x tension cell,919,C4,94.6635,93.9601,0.098
+1 pairwise models,A1 C4,C4: gpt-oss-120b - Apertus-70B,gpt-oss-120b vs Apertus-70B,5.9849,5.0778,6.9495,0.001,code x tension cell,919,C4,94.6635,88.6786,0.006
+1 pairwise models,A1 C4,C4: gpt-oss-20b - Mistral-Small 3.2,gpt-oss-20b vs Mistral-Small 3.2,-1.1528,-1.9864,-0.271,0.011,code x tension cell,919,C4,92.8073,93.9601,0.022
+1 pairwise models,A1 C4,C4: gpt-oss-20b - Apertus-70B,gpt-oss-20b vs Apertus-70B,4.1287,3.2397,5.0414,0.001,code x tension cell,919,C4,92.8073,88.6786,0.006
+1 pairwise models,A1 C4,C4: Mistral-Small 3.2 - Apertus-70B,Mistral-Small 3.2 vs Apertus-70B,5.2815,4.4993,6.0635,0.001,code x tension cell,919,C4,93.9601,88.6786,0.006

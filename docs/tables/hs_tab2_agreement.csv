@@ -1,0 +1,7 @@
+﻿Items,Pairs,Journalists %,Readers %,gpt-oss-120b,gpt-oss-20b,Mistral-Small 3.2,Apertus-70B
+26 baseline pairs,26,"70 [60, 78]","63 [49, 75]",71,62,43,51
+"13 L2 pairs, no circumstance",13,"63 [47, 77]","64 [48, 79]",82,76,71,71
+"all 39 pairs, no circumstance",39,"67 [59, 75]","63 [53, 73]",74,67,53,58
+profile: most models wrong,10,"56 [42, 70]","46 [27, 65]",41,18,0,18
+profile: families split,8,"72 [54, 88]","64 [41, 84]",81,80,41,48
+profile: all models right,8,"85 [73, 94]","84 [65, 96]",97,100,100,97
