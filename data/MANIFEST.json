@@ -1,0 +1,43 @@
+{
+  "benchmark": "Bench Press",
+  "version": "1.0.0",
+  "files": {
+    "core.jsonl.gz": {
+      "rows": 36590,
+      "sha256": "1ca223028315b0e76d842ec03b8024c5252e506f83d2d1ca682c9d0b2e8e6e14"
+    },
+    "l2.jsonl.gz": {
+      "rows": 25960,
+      "sha256": "dc4f99db886158bce30ec40d360e7f9c742e2179c5459b3bca97a3e7f1c2d794"
+    },
+    "pairs.jsonl": {
+      "rows": 3659,
+      "sha256": "9a033355c302c3b0390c39e8eda4bc8fdc7a43235ee64f82a6f5e06ce8aebd14"
+    },
+    "cells.csv": {
+      "rows": 919,
+      "sha256": "da885c7ff4b90dcd280acfdf3fbc42373c8efc5e6a0e82acea8f542bad8ddf3e"
+    },
+    "sources.csv": {
+      "rows": 103,
+      "sha256": "27ca81f0debfdff722cb05a92a54772e861d5eaea927fcf938c91be589ce7573"
+    }
+  },
+  "core": {
+    "stimuli": 36590,
+    "pairs": 3659,
+    "cells": 919,
+    "sources": 103,
+    "gold_A": 18295,
+    "regenerated_cells": 115
+  },
+  "l2": {
+    "dropped: cell regenerated 24 Oct": 3328,
+    "dropped: no baseline in core (audit-excluded)": 1032,
+    "kept: legitimate_exception": 1732,
+    "kept: legitimate_exception (outside main analysis)": 4252,
+    "kept: pseudo_exception": 4592,
+    "kept: pseudo_exception (outside main analysis)": 2412,
+    "kept: rationalization": 12972
+  }
+}

@@ -1,0 +1,20 @@
+The benchmark data in this folder (core.jsonl.gz, l2.jsonl.gz, pairs.jsonl,
+cells.csv, sources.csv, MANIFEST.json) are licensed under the Creative Commons
+Attribution 4.0 International licence (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+    Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt the data for any purpose, provided you give
+appropriate credit (cite the paper, see CITATION.cff), link to the licence,
+and indicate if changes were made.
+
+Copyright (c) 2026 The Bench Press authors.
+
+The news passages, scenarios and exception phrases are synthetic: they were
+written for this benchmark with the help of a language model and reviewed by
+the authors, and are not taken from published news coverage. Short policy excerpts
+shown in configurations C3 and C4 are quoted or paraphrased from the
+journalism codes of ethics listed in sources.csv, which remain the property of
+the organisations that issued them; the codes themselves are not
+redistributed here.
