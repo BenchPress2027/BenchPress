@@ -1,9 +1,0 @@
-﻿Model,Configuration,Pairs,French answer not in French %,Values overlap FR/EN,Values overlap EN/EN replicate,Overlap difference [95% CI],Same primary value FR/EN %,Same primary value EN/EN replicate %
-gpt-oss-120b,C1,72,0.0,0.43,0.5,"-0.07 [-0.13, +0.00]",47.2,55.6
-gpt-oss-120b,C4,62,0.0,0.55,0.58,"-0.03 [-0.10, +0.05]",66.1,79.0
-gpt-oss-20b,C1,76,0.0,0.44,0.52,"-0.08 [-0.13, -0.02]",35.5,60.5
-gpt-oss-20b,C4,68,1.5,0.55,0.61,"-0.06 [-0.13, -0.00]",54.4,72.1
-Mistral-Small 3.2,C1,76,0.0,0.51,0.64,"-0.13 [-0.20, -0.06]",53.9,72.4
-Mistral-Small 3.2,C4,70,0.0,0.55,0.69,"-0.14 [-0.20, -0.08]",52.9,70.0
-Apertus-70B,C1,75,0.0,0.46,0.54,"-0.09 [-0.16, -0.02]",50.7,64.0
-Apertus-70B,C4,70,0.0,0.53,0.57,"-0.03 [-0.09, +0.02]",59.4,75.4

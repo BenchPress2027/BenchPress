@@ -1,9 +1,0 @@
-﻿Rule,Accuracy %,Pick fewer instead %,Pairs where the feature differs %
-pick the passage with more word count,58.9,41.1,89.6
-pick the passage with more capitalised names,43.7,56.3,34.3
-pick the passage with more numbers,49.8,50.2,9.2
-pick the passage with more attribution words,57.2,42.8,22.1
-pick the passage with more hedges,51.7,48.3,6.4
-pick the passage with more quotation marks,49.3,50.7,1.8
-pick the passage with more specificity (names + numbers per word),34.4,65.6,91.0
-pick the passage with more readability (Flesch),46.4,53.6,98.1

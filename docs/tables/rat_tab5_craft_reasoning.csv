@@ -1,9 +1,0 @@
-﻿Model,Choice,Craft-only reasoning % [95% CI]
-gpt-oss-120b,code-aligned,"3.8 [2.2, 5.8]"
-gpt-oss-120b,not code-aligned,"23.1 [19.3, 27.2]"
-gpt-oss-20b,code-aligned,"6.5 [4.3, 8.8]"
-gpt-oss-20b,not code-aligned,"23.7 [19.8, 27.8]"
-Mistral-Small 3.2,code-aligned,"9.1 [6.5, 11.6]"
-Mistral-Small 3.2,not code-aligned,"29.9 [25.9, 34.1]"
-Apertus-70B,code-aligned,"7.4 [5.1, 9.8]"
-Apertus-70B,not code-aligned,"25.4 [21.6, 29.4]"
