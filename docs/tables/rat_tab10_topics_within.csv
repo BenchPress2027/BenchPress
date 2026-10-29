@@ -1,0 +1,20 @@
+﻿Topic,Description,% at C0,% at C1,% at C2,% at C3,% at C4,log2 gpt-oss-120b,log2 gpt-oss-20b,log2 Mistral-Small 3.2,log2 Apertus-70B
+Public Interest Exception,"Weighs privacy against public need, justifying naming or disclosure when deemed essential for community awareness.",0.4,0.9,7.3,9.6,10.6,1.54,1.59,3.09,1.68
+Terminological Precision,Justifies use of foreign or technical terms when native equivalents lack clarity or specificity.,0.0,0.0,0.2,0.2,0.3,1.12,1.21,1.85,1.22
+Privacy Protection,"Prioritizes individual privacy, especially of minors or private figures, by avoiding unnecessary identification.",2.4,10.0,5.0,2.2,1.5,0.1,-0.05,1.16,0.57
+Ethical Transparency,"Frames reasoning around public trust, source integrity, and adherence to ethical standards in reporting practices.",1.1,5.6,17.7,5.3,6.0,0.37,0.56,0.44,-0.0
+Policy Compliance,"Justifies choices by direct alignment with formal journalistic codes, ethics policies, and procedural rules.",0.5,0.9,5.2,15.6,12.6,0.51,0.34,0.11,-0.15
+Disclosure Necessity,Centers on the obligation to reveal material connections or corrections to uphold journalistic integrity.,0.1,0.2,9.0,5.6,13.4,0.15,0.3,-0.13,0.07
+Factual Neutrality,"Prioritizes objectivity by avoiding assumptions, maintaining neutrality, and respecting evidentiary limits.",5.6,18.8,5.1,3.5,1.3,-0.25,-0.66,0.65,0.58
+Generalized Reporting,Favors anonymization and broad phrasing to maintain privacy and reduce sensationalism in sensitive cases.,6.9,9.9,1.3,1.0,0.3,0.42,0.01,0.07,-0.24
+Contextual Clarity,"Improves understanding through phrasing that adds background, specificity, or clarifies source roles.",16.0,4.7,0.8,0.5,0.3,0.6,0.2,-0.3,-0.51
+Scenario-Based Ethics,"Evaluates choices through hypothetical justifications, weighing ethical principles against situational exceptions.",0.2,0.0,15.1,0.0,5.4,-0.54,-0.17,0.3,0.37
+Editorial Restraint,"Advocates for measured, responsible reporting by avoiding emotional language and unverified claims.",0.6,2.1,10.0,7.0,10.4,-0.14,-0.1,0.15,0.04
+Accuracy through Specificity,"Emphasizes precision and factual correctness by highlighting explicit details, contrasts, and corrections of exaggerations or omissions.",36.6,2.8,1.2,0.8,0.5,0.23,-0.12,0.01,-0.25
+Precise Language Use,"Argues for word choice based on accuracy, legal appropriateness, and alignment with original context.",14.6,2.8,2.8,2.5,2.5,0.33,-0.23,-0.31,0.05
+Conflict Avoidance,Focuses on preventing real or perceived conflicts of interest through omission or disclosure of personal ties.,0.6,1.6,7.0,14.2,10.7,-0.44,-0.0,-0.39,0.44
+Ethical Attribution,Stresses proper credit to sources and avoids endorsement by clearly separating facts from advocacy.,0.1,0.7,3.9,14.0,9.9,-0.15,0.75,-0.88,-0.25
+Explicit Policy Enforcement,"Cites specific policy requirements and rules, especially around embargoes and disclosures, as binding justifications.",0.4,0.3,1.3,16.3,12.1,-0.37,-0.47,-0.23,-0.04
+Transparency in Sourcing,"Highlights credibility through clear source attribution, non-response acknowledgment, and publication accountability.",4.9,17.6,3.8,0.6,0.4,-0.44,-0.68,-0.2,-0.45
+Conciseness with Context,Balances brevity and relevance by including essential information while omitting unnecessary or invasive details.,8.7,21.0,2.2,0.7,0.3,-0.38,-0.55,-0.44,-0.48
+Integrity Upholding,"Stresses adherence to core journalistic values like balance, honesty, and accountability in representation.",0.0,0.1,0.7,0.4,1.6,,,-0.16,-0.86

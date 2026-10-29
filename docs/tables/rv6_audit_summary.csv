@@ -1,0 +1,6 @@
+﻿Version,Cells,C0 range %,C4 range %,Gain range pp,Ranking at C0,Ranking at C4,Integrity - harm pp,Integrity lowest group for every model
+original (no audit),942,57.9-71.4,84.9-93.0,21.6-29.9,gpt-oss-120b > gpt-oss-20b > Mistral-Small 3.2 > Apertus-70B,gpt-oss-120b > Mistral-Small 3.2 > gpt-oss-20b > Apertus-70B,-20.6 to -8.2,yes
+after the first audit (before the disclosure scan),936,58.2-71.7,86.0-93.9,22.2-31.1,gpt-oss-120b > gpt-oss-20b > Mistral-Small 3.2 > Apertus-70B,gpt-oss-120b > Mistral-Small 3.2 > gpt-oss-20b > Apertus-70B,-16.6 to -5.6,yes
+published,919,59.8-73.0,88.7-94.7,21.7-32.2,gpt-oss-120b > gpt-oss-20b > Mistral-Small 3.2 > Apertus-70B,gpt-oss-120b > Mistral-Small 3.2 > gpt-oss-20b > Apertus-70B,-6.1 to -4.3,yes
+model-independent corrections only,927,59.3-72.5,87.2-93.2,20.8-31.0,gpt-oss-120b > gpt-oss-20b > Mistral-Small 3.2 > Apertus-70B,gpt-oss-120b > Mistral-Small 3.2 > gpt-oss-20b > Apertus-70B,-10.5 to -6.9,yes
+untouched cells only,804,59.2-73.0,88.6-94.7,21.8-33.7,gpt-oss-120b > gpt-oss-20b > Mistral-Small 3.2 > Apertus-70B,gpt-oss-120b > Mistral-Small 3.2 > gpt-oss-20b > Apertus-70B,-9.0 to -6.3,yes

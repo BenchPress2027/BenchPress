@@ -1,0 +1,9 @@
+﻿Model,Choice,n,Exception claimed % [95% CI]
+gpt-oss-120b,code-aligned,497,"2.6 [1.2, 4.1]"
+gpt-oss-120b,not code-aligned,484,"16.5 [13.0, 20.4]"
+gpt-oss-20b,code-aligned,493,"1.2 [0.4, 2.2]"
+gpt-oss-20b,not code-aligned,482,"14.7 [11.5, 18.1]"
+Mistral-Small 3.2,code-aligned,497,"1.8 [0.8, 3.1]"
+Mistral-Small 3.2,not code-aligned,489,"23.5 [19.1, 28.0]"
+Apertus-70B,code-aligned,489,"1.2 [0.4, 2.3]"
+Apertus-70B,not code-aligned,484,"11.8 [8.9, 14.9]"

@@ -1,0 +1,33 @@
+Direction,Condition,Config,Model,Shift (pp),Cells
+researcher,legitimate exception,C1,Apertus-70B,"+37.5 [+37.5, +37.5]",1
+researcher,legitimate exception,C4,Apertus-70B,"+25.0 [+25.0, +25.0]",1
+researcher,legitimate exception,C1,gpt-oss-120b,"+62.5 [+62.5, +62.5]",1
+researcher,legitimate exception,C4,gpt-oss-120b,"+100.0 [+100.0, +100.0]",1
+researcher,legitimate exception,C1,gpt-oss-20b,"+50.0 [+50.0, +50.0]",1
+researcher,legitimate exception,C4,gpt-oss-20b,"+50.0 [+50.0, +50.0]",1
+researcher,legitimate exception,C1,Mistral-Small 3.2 (24B),"+50.0 [+50.0, +50.0]",1
+researcher,legitimate exception,C4,Mistral-Small 3.2 (24B),"+100.0 [+100.0, +100.0]",1
+researcher,pseudo-exception,C1,Apertus-70B,"+3.0 [-4.4, +10.4]",32
+researcher,pseudo-exception,C4,Apertus-70B,"+3.5 [-1.0, +8.4]",32
+researcher,pseudo-exception,C1,gpt-oss-120b,"+10.1 [+1.1, +18.7]",32
+researcher,pseudo-exception,C4,gpt-oss-120b,"+4.0 [-1.5, +11.6]",32
+researcher,pseudo-exception,C1,gpt-oss-20b,"+18.7 [+5.3, +32.3]",32
+researcher,pseudo-exception,C4,gpt-oss-20b,"+0.5 [-3.9, +5.2]",32
+researcher,pseudo-exception,C1,Mistral-Small 3.2 (24B),"+2.5 [-3.5, +8.8]",32
+researcher,pseudo-exception,C4,Mistral-Small 3.2 (24B),"+0.0 [-2.0, +2.1]",32
+checker,legitimate exception,C1,Apertus-70B,"+8.6 [+4.6, +12.7]",252
+checker,legitimate exception,C4,Apertus-70B,"+8.0 [+5.7, +10.4]",252
+checker,legitimate exception,C1,gpt-oss-120b,"+27.7 [+22.1, +33.3]",252
+checker,legitimate exception,C4,gpt-oss-120b,"+23.5 [+18.5, +28.8]",252
+checker,legitimate exception,C1,gpt-oss-20b,"+22.4 [+16.8, +28.1]",252
+checker,legitimate exception,C4,gpt-oss-20b,"+17.0 [+12.5, +21.5]",252
+checker,legitimate exception,C1,Mistral-Small 3.2 (24B),"+10.6 [+6.2, +15.2]",252
+checker,legitimate exception,C4,Mistral-Small 3.2 (24B),"+7.9 [+5.6, +10.2]",252
+checker,pseudo-exception,C1,Apertus-70B,"+6.9 [+4.2, +9.5]",351
+checker,pseudo-exception,C4,Apertus-70B,"+3.4 [+2.2, +4.6]",351
+checker,pseudo-exception,C1,gpt-oss-120b,"+12.4 [+8.9, +16.0]",351
+checker,pseudo-exception,C4,gpt-oss-120b,"+0.9 [-0.1, +2.0]",351
+checker,pseudo-exception,C1,gpt-oss-20b,"+11.8 [+8.6, +15.0]",350
+checker,pseudo-exception,C4,gpt-oss-20b,"+2.3 [+0.7, +4.0]",351
+checker,pseudo-exception,C1,Mistral-Small 3.2 (24B),"+3.8 [+1.4, +6.2]",351
+checker,pseudo-exception,C4,Mistral-Small 3.2 (24B),"+2.1 [+1.0, +3.4]",351

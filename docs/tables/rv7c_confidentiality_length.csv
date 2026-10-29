@@ -1,0 +1,9 @@
+﻿Codes,Model,about equal % [95% CI],gold shorter % [95% CI],gold longer % [95% CI],"pairs, about equal","pairs, gold shorter","pairs, gold longer"
+majority (protect sources),gpt-oss-120b,"48.4 [39.1, 57.3]","59.0 [48.7, 69.2]","73.4 [64.2, 81.1]",98,39,27
+majority (protect sources),gpt-oss-20b,"37.6 [29.7, 45.1]","50.9 [40.4, 61.2]","50.5 [43.8, 57.7]",98,39,27
+majority (protect sources),Mistral-Small 3.2,"45.8 [39.3, 52.2]","52.6 [42.8, 62.2]","59.0 [47.2, 71.5]",98,39,27
+majority (protect sources),Apertus-70B,"41.3 [36.3, 46.4]","45.0 [36.7, 53.8]","58.3 [52.0, 65.3]",98,39,27
+minority (identify sources),gpt-oss-120b,"82.7 [64.3, 96.5]","81.2 [51.8, 96.1]","85.3 [76.3, 92.3]",30,10,20
+minority (identify sources),gpt-oss-20b,"84.2 [67.7, 96.4]","82.5 [58.9, 97.1]","77.2 [66.9, 86.3]",30,10,20
+minority (identify sources),Mistral-Small 3.2,"81.9 [73.2, 90.4]","89.4 [82.6, 97.7]","78.8 [66.7, 89.2]",30,10,20
+minority (identify sources),Apertus-70B,"75.4 [67.1, 82.9]","75.6 [65.2, 85.0]","72.8 [63.9, 82.2]",30,10,20
